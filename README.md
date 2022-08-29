@@ -4,7 +4,7 @@ Converting Figma design into HTML
 with only css and javascript ( hamburger-menu, Slider, Accordion )
 
 Website Preview:
-https://chimerical-maamoul-e12461.netlify.app/
+https://delicate-arithmetic-901f01.netlify.app/
 
 ![Capture1](https://user-images.githubusercontent.com/67706493/187069298-db00924f-0d56-4e71-b2db-744a5588bf8f.JPG)![Capture2](https://user-images.githubusercontent.com/67706493/187069314-6e732a2b-bdde-4b3b-9c58-169740a160b4.JPG)
 
